@@ -123,7 +123,7 @@ const Hero = () => {
 
       <div className="relative overflow-hidden border-b border-border bg-primary">
         <div className="pointer-events-none absolute inset-0 opacity-20 diag-stripes mix-blend-multiply" />
-        <div className="relative select-none whitespace-nowrap text-center text-[27vw] font-black uppercase leading-[0.78] tracking-[-0.05em] text-primary-foreground">
+        <div className="relative select-none whitespace-nowrap py-4 text-center text-[18vw] font-black uppercase leading-[0.85] tracking-[-0.04em] text-primary-foreground">
           DEVOPS
         </div>
       </div>
